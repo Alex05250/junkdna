@@ -1,7 +1,7 @@
 # junkdna
 一个生物学趣谈分享网页
 rubbish-journal/
-│  index.html               # 期刊首页（我们这次主要写的）
+│  index.html               # 站点首页（我们这次主要写的）
 │
 ├─ issues/
 │   ├─ issue-01.html        # 第一期详情页（之后你慢慢写）
