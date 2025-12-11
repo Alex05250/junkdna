@@ -1,5 +1,5 @@
 # junkdna
-A biological journal
+一个生物学趣谈分享网页
 rubbish-journal/
 │  index.html               # 期刊首页（我们这次主要写的）
 │
